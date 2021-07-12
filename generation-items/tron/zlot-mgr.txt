@@ -1,0 +1,10 @@
+zlot_mgr
+corrupt_manager
+viral_pickup
+viral_booster
+viral_launcher
+corrupt_init
+intruder
+firewall_break
+collate_virus
+nimda

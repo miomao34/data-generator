@@ -1,0 +1,348 @@
+Fertilitiy/Resource,,,,,
+,Seed Replica,,,,
+,,1,Rice substitute,,Almost the same carbohydrate and protein content.
+,,2,Sugar beet replica,,"Synthetic, but usable."
+,,1,Tea substitute,,Indistinguishable from the natural product.
+,,1,Vegetable replicas,,Even more colorful than the original plants...
+,,2,Fruit synthesis,,Immune to worms and insects.
+,,2,Grain analog,,Grows practically everywhere.
+,,2,Modified Corn,,Very frugal plants
+,,2,Seed replica,,"Increased caffeine, less bitterness."
+,,2,Synthetic Wine grape seed,,Also thrives under artificial sunlight.
+,,2,Artificial Truffle strain,,Only gourmets can taste the difference.
+,Black Smoker Chemical,,,,
+,,3,Aurogenic Chemicals,,... and down deep: the Gold!
+,,3,Uranogenic Chemicals,,The Deposits are far from being exhausted!
+,,3,Cuprogenic Chemicals,,Demand for Copper continues!
+,,3,Ferrogenic Chemicals,,The seabed is rich in Iron ore!
+,,3,Manganogenic Chemicals,,There are many Deposits worth mining under the sea...
+,,3,Carbonogenic Chemicals,,Treasures from the bowels of the Earth.
+,Resource,,,,
+,,3,Basalt Cutter Head 2.0,,"New, improved and 10 times as effective!"
+,,3,Copper Drill 2.0,,"New, improved and 10 times as effective!"
+,,3,Iron Drill Bit 2.0,,"New, improved and 10 times as effective!"
+,,3,Coal Plough 2.0,,"New, improved and 10 times as effective!"
+,,3,Limestone Drill Bit 2.0,,"New, improved and 10 times as effective!"
+,,3,Uranium Drill Bit 2.0,,"New, improved and 10 times as effective!"
+,,3,Oil Drill Head 2.0,,"New, improved and 10 times as effective!"
+,,3,Gold Filter 2.0,,"New, improved and 10 times as effective!"
+,,3,Sand Filter 2.0,,"New, improved and 10 times as effective!"
+,,3,Lobster Farm Baskets 2.0,,"New, improved and 10 times as effective!"
+Production Building Upgrade,,,,,
+,Basalt Crusher,,,,
+,,1,Precision drill heads,: -20%,Reduced excess debris.
+,,1,Automatic conveyor,: -20%,Prolonged drilling cycles.
+,,2,Maintenance free automatic conveyor,: -30%: -30%,"Runs without a break, 24 / 7"
+,,3,Basalt tailing recycling,: -40%: -40%,Everything is recycled.
+,Basalt Extraction,,,,
+,,1,Refined Basalt screens,: -20%,Increases the amount of Material recovered.
+,,1,Improved blasting methodology,: -20%,Gentler Material splitting
+,,2,Reinforced Basalt mills,: -30%: -30%,Faster grinding rates.
+,,3,Automated cracking procedure,: -40%: -40%,Sifting and sorting machine.
+,Coal Mine,,,,
+,,1,Reinforced Reisshaken plows,: -20%,Helps shearers work better.
+,,1,Emission control,: -50%,Protects against Coal dust.
+,,2,More efficient tunnel design,: -100%: -30%,Much better yield.
+,,3,Coal tailing recycling,: -100%: -40%,Nothing is lost.
+,Iron Ore Mine,,,,
+,,1,Ore detector,: -20%,Finds every vein.
+,,1,Natural drainage,: -50%,Good for the ground water regime.
+,,2,Magnet driven Ore carts,: -100%: -30%,Mining at a new level.
+,,3,Iron ore tailing recycling,: -100%: -40%,Don't waste anything!
+,Copper Mine,,,,
+,,1,Optimized carriers,: -20%,More Copper for less effort.
+,,1,Eco-friendly Copper treatment,: -50%,Gentle processing.
+,,2,Precision Copper drill bit,: -100%: -30%,Avoids costly dry holes.
+,,3,Copper tailing recycling,: -100%: -40%,Don't let things deteriorate!
+,Limestone Quarry,,,,
+,,1,Computer-based Quarry plan,: -20%,Determines exactly where work needs to be done.
+,,1,Explosives free Stone crusher,: -50%,No dynamite required!
+,,2,Careful exposure drones,: -100%: -30%,No unnecessary destruction!
+,,3,Limestone tailing recycling,: -100%: -40%,All that can still be used!
+,Uranium Mine,,,,
+,,1,Radiation-proof prospecting electronics,: -20%,Resistant to false measurements.
+,,1,Shielded transport shafts,: -30%,Protect the staff...
+,,2,Radiation-proof mining robots,: -50%: -30%,Avoids costly outages.
+,,3,Uranium tailing recycling,: -70%: -40%,Ensures total utilization.
+,Oil Driller,,,,
+,,1,Automatic deposits survey,: -20%,Provides better mining planning.
+,,1,Low friction flush head,: -30%,Gentle mining.
+,,2,Loss-free primary extraction,: -40%: -30%,Prevents minor accidental spills.
+,,3,Crude oil sump recycling,: -50%: -40%,Uses all of the Resource.
+,,3,Blueprint: Oil Driller Sokow Transnational,Allows the construction of an Oil Driller Sokow Transnational.,Made by Sokow Transnational.
+,Oil Rig,,,,
+,,1,Offshore deposits survey,: -20%,Reduced drilling failure rate.
+,,1,Self-locking pipe connection,: -20%,Stops the flow in case of accidents.
+,,2,Failsafe drilling cap,: -30%: -30%,Can absorb large amounts of spillage.
+,,3,Blowout preventers,: -40%: -40%,Safety cap for drill holes.
+,Sand Extractor,,,,
+,,1,Sand grain sorting matrix,: -20%,Separates different grain sizes efficiently.
+,,1,River water nutrient enrichment,: -30%,Automated water addition and distribution system.
+,,2,Sediment filtration,: -40%: -30%,Cleans the river bed.
+,,3,Sand filter residue recycling,: -50%: -40%,Not a grain is lost.
+,Gold Refinery,,,,
+,,1,Opto-electric Gold scale,: -20%,Reliably measures even the smallest amounts.
+,,1,Fully automatic filter cleaning,: -30%,Avoids costly shutdowns.
+,,2,Cumulative Gold dust scanner,: -40%: -30%,Doesn't miss even a single atom of Gold.
+,,3,Gold filter residue recycling,: -50%: -40%,Several filter passes increase the yield.
+,Lobster Farm,,,,
+,,1,Efficient breeding methodology,: -20%,Automated feeding stations.
+,,1,Aqua farm with outdoor area,: -40%,Free-range lobster...
+,,2,Organic Lobster farming,: -70%: -30%,Sustainable population control.
+,,3,Total animal utilization,: -100%: -40%,"The meat for gourmets, the rest to the fish meal factory..."
+,Rotary Excavator,,,,
+,,1,Selective mining,: -20%,Digs precisely and only according to plan.
+,,1,Excavator drive exhaust after-treatment,: -30%,Reduces the emission profile.
+,,2,Soil reclamation plan,: -40%: -30%,Sensible post-mining land use.
+,,3,Brown Coal tailing recycling,: -50%: -40%,Even Coal dust is precious!
+Ecobalance Building Upgrade,,,,,
+,Guardian 1.0,,,,
+,,3,Construction plan: Guardian 1.0,Allows the construction of a Guardian 1.0.,Combining ecology and elegance!
+,,1,Guardian 1.0 Automation,: -20%,Environmental protection is finally affordable!
+,,1,Guardian 1.0 high-perform. fibers,: -20%,Good for nature! Good for the electricity bill!
+,,3,Guardian 1.0 Converter upgrade,: -40%: -40%,Mother Nature will love you!
+,Keeper 1.0,,,,
+,,3,Construction plan: Keeper 1.0,Allows the construction of a Keeper 1.0.,Ecology and functionality in one neat package!
+,,1,Keeper 1.0 Automation,: -20%,This is great for the wallet!
+,,1,Keeper 1.0 high-perform. fibers,: -20%,Good for the electricity bill.
+,,3,Keeper 1.0 Converter Upgrade,: -40%: -40%,Makes the grass even greener!
+,Weather Control Station,,,,
+,,1,Improved air mass acquisition,: -20%,Large-scale scanning of meteorological processes.
+,,1,Biological aerosol compression,: -20%,Increased manipulation factor.
+,,2,Exosphere ionization,: -30%: -30%,Creates favorable conditions in near-Earth space.
+,,3,Artificial atmospheric regulation,: -40%: -40%,High pressure and low pressure at the push of a button.
+,Monitoring Station,,,,
+,,1,Computerized data monitoring,: -10%,Automated history logs.
+,,1,Energy-efficient cellulose registery,: -30%,Economical long-term data storage.
+,,2,Generating anemometer,: -20%: -40%,"Two birds with one stone: measures wind, generates Electricity."
+,,3,Automated observation equipment,: -30%: -50%,... thanks to camera drones and nanotrackers.
+,Ozone Maker Station,,,,
+,,1,Solar energy supply,: -30%,... uses the sun's rays.
+,,1,Artificial Oxygen photolisys,: -10%,... accelerated molecular cleavage.
+,,2,Recombination acceleration,: -40%: -20%,Improved molecular bonding process.
+,,3,Molar ozone reaction enthalpy shift,: -50%: -30%,Reduces Energy loss to almost zero.
+,River Sewage Treatment Plant,,,,
+,,1,Self-cleaning particle filter,: -10%,Avoids lengthy maintenance periods.
+,,1,Organic adsorption,: -30%,Uses natural accumulation processes.
+,,2,Nanofiltration plant,: -20%: -40%,Full particle blockage - thanks to pressure-driven membranes.
+,,3,Reverse osmosis process,: -30%: -50%,Simpler filters through pressure differential.
+,Waste Compactor,,,,
+,,1,Interim waste storage,: +20%,Minimizes waste.
+,,1,Heterogenous catalysis,: -30%,"Lower firing temperatures, same result!"
+,,2,Atmospheric fluidized bed combustion,: +30%: -40%,Increased efficiency due to smaller particles.
+,,3,Compact combustion process,: +40%: -50%,"Condensed phase combustion, reduced emissions."
+,CO2 Reservoir,,,,
+,,1,Maintenance-free storage Technology,: -10%,"Out of sight, out of mind."
+,,1,Fully biological advection barrier,: -30%,Prevents washout and dissolution.
+,,2,Simplified multi-barrier system,: -20%: -40%,Safety through redundancy.
+,,3,Desorption-proof container,: -30%: -50%,"What's in there, stays in there!"
+,Deacidification Station,,,,
+,,1,Cascade header,: -20%,Increased infiltration factor.
+,,1,Corrugated plate columns,: -20%,Enhanced de-gassing.
+,,2,Hydro-calcite deacidification,: -30%: -30%,Faster results.
+,,3,Dolomitic filter material,: -40%: -40%,Faster acid balance adjustment using magnesium.
+Energy Generation Building Upgrade,,,,,
+,Hydroelectric Power Plant,,,,
+,,3,Blueprint: Hydroelectric power plant,Allows the construction of a Hydroelectric Power Plant,"Clean, safe, efficient."
+,,1,High performance Turbine,: +20%,Pelton configuration scheme.
+,,1,Improved Cargo hold cleansing,: -30%,Fewer failures due to foreign bodies.
+,,2,Natural water head optimization,: -40%: +30%,Perfect Turbine load.
+,,3,Eco-neutral diffuser technology,: -50%: +40%,Protects the environment and Materials.
+,Wind Park,,,,
+,,1,Automated maintenance,: -10%,Saves an enormous amount of service costs.
+,,1,Optimized rotor blades,: -30%,High wind yield on days with little wind.
+,,2,Electronic rotor controls,: -20%: -40%,Quick adaptation to changing weather conditions.
+,,3,Super rotor,: -30%: -50%,Perfect wind-energy ratio.
+,Thermal Power Station,,,,
+,,1,Improved flue gas cleaning system,: -10%,Doubled filter life.
+,,1,Power-heat coupling,: +20%,Reduced heat loss.
+,,2,Fluidized bed process,: -20%: +30%,Increased utilization coefficient.
+,,3,Flue heat exchanger technology,: -30%: +40%,Improved surface evaporators.
+,Offshore Wind Park,,,,
+,,1,Monopile deep sea foundation,: -10%,"Stable foundations, low maintenance."
+,,1,Turbulence reduction,: -15%,Increased productivity through more stable running performance.
+,,2,Darrieus rotor,: -20%: -25%,Rotor shape upgrade for increased efficiency.
+,,3,Multifractal positioning system,: -30%: -35%,Exactly balanced for maximum Energy gain.
+,Solar Tower Generator,,,,
+,,1,Ceramic heat reservoir,: -10%,Lasting power output even during periods of little sunlight.
+,,1,Solar furnace modernization,: +20%,Increased process heat factor.
+,,2,Parabolic trough technology,: -20%: +30%,Energy generation by convex mirror.
+,,3,Dish-Stirling system,: -30%: +40%,Produced Energy which can even be used mechanically.
+,Coal Power Station,,,,
+,,1,Control room upgrade,: +20%,Better controlled combustion processes.
+,,1,Regenerative combustion,: -30%,Fast residue-free and relatively clean.
+,,2,Spheric procedure,: -40%: +30%,Far more efficient than conventional methods.
+,,3,Thermodynamic efficiency enhancement,: -50%: +40%,Maximum efficiency through advanced combustion technologies.
+,Nuclear Power Plant,,,,
+,,1,Mixed oxide use,: -10%,Reduced cost factor.
+,,1,Catalytic recombiners,: -30%,More cooling capacity in an emergency
+,,2,Heavy water cooling system,: -30%: -40%,Lower neutron absorption.
+,,3,Spherical reactor,: -30%: -50%,Higher temperature due to gaseous coolant.
+,Energy Transmitter,,,,
+,,1,Automated maintenance,: -10%,Costs only the half and is more precise.
+,,1,Cooling water treatment,: -30%,Looks almost like normal water after treatment.
+,,2,Carbon-coated transmitter head,: -20%: -40%,Increases efficiency tremendously
+,,3,Extended coil battery,: -30%: -50%,Delivers almost perfect efficiency.
+,Geothermic Power Plant,,,,
+,,1,Autonomous pipe maintenance unit,: -10%,Finds even the smallest porosity in the gaskets.
+,,1,Seismic pressure regulator,: -30%,Keeps tremors at a minimum.
+,,2,Soundwave-based sensor system,: -20%: -40%,Registers almost every threat in the rocks.
+,,3,Extended Sensoric Interface,: -30%: -50%,'
+Public Building Upgrade,,,,,
+,Activity,,,,
+,,1,Target audience neutral entertainment program,: +10%,Increased public acceptance.
+,,1,Daylight headlights,: -30%,Avoid exorbitant Electricity bills.
+,,2,Targeted intake control device,: -40%: +20%,Well-ordered spectator processing.
+,,3,Computer-assisted program planning,: -50%: +30%,"Better room utilization, less idle time."
+,Information,,,,
+,,1,Transmission power increase,: +10%,Reaches every Inhabitant.
+,,1,Full LED conversion,: -30%,Reduced set radiation for viewers.
+,,2,Barrier-free long-wave propagation,: -40%: +20%,Reduced electromagnetic pollution at the same transmission power.
+,,3,Amplitude modulated carrier wave,: -50%: +30%,Cost control and uniform transmission profile even at peak times.
+,Participation,,,,
+,,1,Public tenders,: +10%,Equal opportunities for every company.
+,,1,Unlit voting booths,: -30%,Democracy doesn't stop at sundown.
+,,2,Fully electronic application system,: -40%: +20%,Avoids bureaucratic paperwork.
+,,3,Inner-city self-determination,: -50%: +30%,"... for responsible, ambitious citizens."
+,Laboratory,,,,
+,,1,Labor regulations documentation,: -5%,Most lab accidents are preventable.
+,,2,Assistants' training,: -10%,Safety first!
+,,3,High-security Laboratories,: -15%,Here everything is done behind Plexiglas.
+Special Building Upgrade,,,,,
+,Warehouse,,,,
+,,1,Central warehouse management,: -20%,... thanks to digital sorting databases.
+,,1,Automated Warehouse filling,: +1,Missing items will be ordered immediately.
+,,2,Optimized inventory turnover,: -30%: +1,"Short storage times, reduced costs."
+,,3,Automated Transport facilities,: -40%: +2,The Storage androids can find any item in a jiffy.
+,,1,Massive construction,: +250,Also withstands heavy loads.
+,,1,Depot expansion,: +20,More efficient Storehouse floor use.
+,,2,Reinforced Central warehouse,: +40: +500,"Larger, more stable Warehouses."
+,,3,Goods bunker,: +80: +750,"Bomb-proof, and with plenty of space."
+,Defense Turrets,,,,
+,,1,Improved radar sensors,: +10%,Increased detection range.
+,,1,Improved kinetic penetrators,: +10%,Depleted Uranium penetrators...
+,,2,Upgraded Turrets,: +20%: +20%,Second-generation target acquisition sensors
+,,3,Long-range guns,: +30%: +30%,Destroy the enemy before he is within reach.
+,,1,Selective armor,: +250,With adaptive surface...
+,,1,Automatic maintenance unit,: -30%,For regular maintenance cycles.
+,,2,Multiple spaced Armor,: -40%: +500,Prevents the emission of explosive gases.
+,,3,Intelligent reactive Armor,: -50%: +750,Responds only to enemy Projectiles cataloged as threats.
+,Fire Station,,,,
+,,1,Automatic fire detection system,: +10%,"Fire, fire! Alarm!"
+,,1,Fire engine modernization,: +20%,Open the floodgates!
+,,2,Fire safety guard,: +20%: +30%,"Rescue, extinguish, contain, protect!"
+,,3,Fire protection regulations,: +30%: +40%,At least five fire extinguishers on every floor!
+,,3,Virtual Facades,Provides Residences on all your islands complete Catastrophe Protection against Fire.,Look better and are not inflammable.
+,Hospital,,,,
+,,1,Bed increases,: +10%,Doubled occupancy for every room.
+,,1,First responder service concept,: -20%,The first few minutes are the most critical!
+,,2,Vehicle fleet renewal,: +20%: -30%,Ready for any emergency!
+,,3,Medical specialist support,: +30%: -40%,"Rapid treatment, around the clock!"
+,,3,Ying-Yang Regulator,Provides Residences on all your islands complete Catastrophe Protection against Disease.,Body and soul in unity.
+,Police Station,,,,
+,,1,Increased patrols,: +10%,Increases the uniformed presence on the streets.
+,,1,Training in interrogation techniques,: -20%: -20%,"Good cop, bad cop."
+,,2,General video surveillance,: +20%: -30%: -30%,Greetings from Big Brother...
+,,3,Centralized biometric database,: +30%: -40%: -40%,Registration at birth...
+,,3,Persuasion Emitter,Provides Residences on all your islands complete Catastrophe Protection against Crime.,"You shall not steal, you shall not..."
+,Statistics Center,,,,
+,,1,Data trap,: -20%,N/A
+,,1,Recovery cells,: -30%,N/A
+,,3,Energy renovation,: -20%: -30%,N/A
+,Central Statistics,,,,
+,,1,Central Statistics - Data trap,: -20%,N/A
+,,1,Central Statistics - Recovery cells,: -30%,N/A
+,,3,Central Statistics - Energy renovation,: -20%: -30%,N/A
+,Special Actions,,,,
+,,3,Clearance device,Eliminates the negative effect of Ruins on an island.,"Biological, chemical or radioactive waste, this device cleans it all."
+,,3,Anti-escalation equipment,Ends all Uprisings by an Islands population.,"Brings even the most persistent protesters to reason. Peacefully, of course."
+,,3,Missile shield,"Redirects one Long-range missile once fired at the island, sending it back to its source.",Always brings a big surprise.
+Unit Upgrade,,,,,
+,Commando Ship,,,,
+,,1,Commando Ship Turbine revision,: +15%,Higher top speed due to higher Turbine speed.
+,,1,Commando Ship Amuniton improvement,: +10%,Greater impact through increased propellant charges.
+,,1,Commando Ship Cargo hold expansion,: +25%,Increases the maximum allowable load.
+,,2,Commando Ship Mission upgrade,: +15%: +15%,Professional equipment.
+,,3,Commando Ship Military overhaul,: +20%: +20%,Meets the highest load demands.
+,,2,Commando Ship Transport optimization,: +25%: +15%,Greater efficiency in Goods transportation.
+,,3,Commando Ship Trading diversification,: +50%: +20%,Optimized for mercantile use.
+,Freight Ship,,,,
+,,1,Freight ship Engine optimization,: +15%,Double helical configuration.
+,,1,Freight ship Capacity expansion,: +25%,Modified loading bays.
+,,2,Freight ship Cargo service customization,: +25%: +15%,Increased transportation capacity over long distances.
+,,3,Freight ship Cargo specification,: +50%: +20%,Optimized transport routines for the onboard computer.
+,Viper,,,,
+,,1,Viper Drive expansion,: +15%,Increased battle speed.
+,,1,Viper Armament enhancement,: +10%,Improved surface and underwater combat values.
+,,2,Viper Maneuvering revision,: +15%: +15%,Specialization profile Convoy escort
+,,3,Viper Combat operations upgrade,: +20%: +20%,Specialization profile Submarine hunter
+,Hovercraft,,,,
+,,1,Hovercraft Engine optimization,: +15%,High performance Turbines with emission certification.
+,,1,Hovercraft reinforced Gun barrels,: +10%,Increased muzzle velocity.
+,,2,Hovercraft Combat expansion,: +15%: +15%,Optimized for combat missions.
+,,3,Hovercraft Combat suite extension,: +20%: +20%,Total military conversion.
+,Cargo Liner,,,,
+,,1,Cargo liner Engine room optimization,: +15%,Additional glycol injection.
+,,1,Cargo liner Cargo capacity revision,: +25%,Improved internal structures.
+,,2,Cargo liner Haulage equipment,: +25%: +15%,Improved Transport services.
+,,3,Cargo liner Cargo service upgrade,: +50%: +20%,Maximum Transport efficiency.
+,Colossus,,,,
+,,1,Colossus Engine room expansion,: +15%,Marine diesel twin turbochargers.
+,,1,Colossus Artillery expansion,: +10%,Gyro stabilized fire control system.
+,,2,Colossus Combat upgrade,: +15%: +15%,Flexible mission profile.
+,,3,Colossus Battle suite,: +20%: +20%,Optimized offensive protocols.
+,Container Ship,,,,
+,,1,Container ship Turbine boost,: +25%,Higher speed through more robust Turbine blades.
+,,1,Container ship Cargo hold expansion,: +25%,Certification for increased deck Cargo.
+,,2,Container ship Logistics revision,: +25%: +25%,Next-generation Cargo systems.
+,,3,Container ship Haulage diversification,: +50%: +35%,Maximum efficiency in Container traffic.
+,T38 Ocean Glider,,,,
+,,1,T 38 Ocean Glider Engine modernization,: +15%,Super cavitation upgrade.
+,,1,T 38 Ocean Glider Cargo capacity revision,: +25%,Increased Storage capacity modules.
+,,2,T 38 Ocean Glider Cargo transport customization,: +25%: +15%,Repeal of the tonnage limitation.
+,,3,T 38 Ocean Glider Logistic specification,: +50%: +20%,Cargo Trimaran classification.
+,Deep Sea Hunter,,,,
+,,1,Deep Sea Hunter Fuel cell engine,: +15%,Improved dive profile.
+,,1,Deep Sea Hunter Torpedo enhancement,: +10%,Enlarged Warheads.
+,,2,Deep Sea Hunter Combat equipment,: +15%: +15%,Military power buffer.
+,,3,Deep Sea Hunter Battle classification,: +20%: +20%,Advanced assault tactics.
+,Orca,,,,
+,,1,Orca - Armor Plate,: +25%,A blend of Kevlar and Titanium
+,,1,Orca - Reactor accelerator,: -25%,You're in the black with the red lights on
+,,3,Orca - Optimization kit,: -25%: +25%,Combines power with cost efficiency
+,Erebos,,,,
+,,1,Erebos - Armor Plate,: +25%,A blend of Kevlar and Titanium
+,,1,Erebos - Reactor accelerator,: -25%,You're in the black with the red lights on
+,,3,Erebos - Optimization kit,: -25%: +25%,Combines power with cost efficiency
+,Chopper,,,,
+,,1,Chopper Engine efficiency improvement,: -20%,Allows long-range Missions.
+,,1,Chopper Ammunition modernization,: +10%,Tungsten projectiles with increased penetration factor.
+,,2,Chopper Combat upgrade,: +15%: -30%,Longer patrol missions with greater firepower.
+,,3,Chopper Hunter classification,: +20%: -40%,"Increased range, increased combat factor."
+,Hawk,,,,
+,,1,Hawk Turbine optimization,: -20%,Increased standby time window.
+,,1,Hawk Missile extension,: +10%,Improved attack profile.
+,,2,Hawk Mission optimization,: +15%: -30%,Extended operating parameters.
+,,3,Hawk Battle optimization,: +20%: -40%,Maximum military power.
+,Firebird,,,,
+,,1,FireBird Rotor revision,: -20%,Long distance mission upgrade.
+,,1,FireBird Armament improvement,: +10%,Escalation upgrade.
+,,2,FireBird Mission equipment,: +15%: -30%,Tactical ground attack configuration.
+,,3,FireBird Battle specification,: +20%: -40%,Strategic ground attack configuration.
+,Sisyphus,,,,
+,,1,Sisyphus Propellor Adjustment,: +15%,Reduces water resistance drastically.
+,,1,Sisyphus Air Compressor,: +25%,"Less room for air, more for goods."
+,,2,Sisyphus Automized Cargo Allocation,: +25%: +15%,For an efficient goods storage.
+,,3,Sisyphus Logistic Interface,: +50%: +20%,Balances inconsistencies in cargo areas automatically.
+,Atlas,,,,
+,,1,Atlas Gliding Body Alloy,: +15%,Let's the bodies glide like through warm butter.
+,,1,Atlas Cerosine Tank Expansion,: +25%,Expands the running time massively.
+,,2,Atlas Body Deepening,: +25%: +15%,Allows a better water displacement.
+,,3,Atlas Extended System,: +50%: +20%,Lets the Atlas unfold its true potential.
+,Special Action,,,,
+,,3,Sound Wave Modulator,,Communicates with marine animals.
+,,1,Naval mine TX 05,,Destroys the most robust hulls.
+,,1,Sonar,,Reveals Submarines even at long range.
+,,1,Silent running System module,,Fools every radar.
+,Ark,,,,
+,,3,Biosphere generator,Generates a fluorescent biosphere around your Ark which attracts all kinds of birds and fish that will gather around the Ark as if it were an iriscendent refuge.,Hans Hass and Jacques Cousteau would have given their right arm for this thing!
